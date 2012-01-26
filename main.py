@@ -15,7 +15,7 @@ from kivy.uix.widget import Widget
 from kivy.uix.accordion import Accordion, AccordionItem
 from kivy.uix.label import Label
 
-#Config.set('graphics', 'fullscreen', 1)
+Config.set('graphics', 'fullscreen', 1)
 #Config.set('graphics', 'width', 1024)
 #Config.set('graphics', 'height', 768)
 #Config.write()
